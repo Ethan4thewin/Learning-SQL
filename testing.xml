@@ -1,0 +1,24 @@
+<DATA>
+
+	<ROW>
+		<person_id>1</person_id>
+		<fname>William</fname>
+		<lname>Turner</lname>
+		<eye_color>BR</eye_color>
+		<birth_date>1972-05-27</birth_date>
+		<address>NULL</address>
+		<district>NULL</district>
+		<city>NULL</city>
+	</ROW>
+
+	<ROW>
+		<person_id>2</person_id>
+		<fname>Susan</fname>
+		<lname>Smith</lname>
+		<eye_color>BL</eye_color>
+		<birth_date>1975-11-02</birth_date>
+		<address>23 Maple St.</address>
+		<district>Arlington</district>
+		<city>VA</city>
+	</ROW>
+</DATA>
